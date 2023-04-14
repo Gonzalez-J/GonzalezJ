@@ -1,6 +1,6 @@
-<h1>Hi, I'm Julio, an <a href="https://www.linkedin.com/in/julio-gonzalez-b6b09a95/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Julio, an <a href="https://www.linkedin.com/in/julio-gonzalez-b6b09a95/">IT Professional
 
-<h2>👨💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
 
